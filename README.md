@@ -13,6 +13,8 @@ Hello there! I'm a passionate and experienced Data Engineer and Data Scientist w
 - Experienced in leading teams in Data Engineering and Data Science, mentoring team members, and fostering a collaborative environment for innovation and problem-solving.
 - Strong background in generative AI, machine learning, data architecture, and big data technologies.
 
+✉️ You can reach me at: [sriram.rach@gmail.com](mailto:sriram.rach@gmail.com)
+
 ---
 ## 💻Tech Stack
 <div align="center">
