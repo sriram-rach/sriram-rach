@@ -4,7 +4,7 @@
 
 
 
-Hello there! I'm a passionate and experienced Data Engineer and Data Scientist with a strong foundation in building and managing data infrastructures to support machine learning, artificial intelligence, and enterprise data needs, particularly for reporting. I specialize in leveraging cutting-edge technologies to solve complex data problems and build efficient, scalable systems that drive actionable insights and business value.
+Hello there! I'm a passionate and experienced Data Engineer/Data Scientist with a strong foundation in building data infrastructures to support machine learning, artificial intelligence, and enterprise data needs, particularly for reporting. I specialize in leveraging cutting-edge technologies to solve complex data problems and build efficient, scalable systems that drive actionable insights and business value.
 
 ---
 ## 🌱 About Me
